@@ -3,4 +3,4 @@ utilisation du langage C pour reproduire un Model du Jeu. La bibliothèque SDL e
 
 | Deployed App |
 |:-------------:|
-| <a href="#"><img src="https://github.com/Emmanueltatieze/Emmanueltatieze/blob/main/awale.gif" width="60%" /></a><br /><a href="#">TETRIS 2D</a>
+| <a href="#"><img src="https://github.com/Emmanueltatieze/Emmanueltatieze/blob/main/awale.gif" width="80%" /></a><br /><a href="#">TETRIS 2D</a>
